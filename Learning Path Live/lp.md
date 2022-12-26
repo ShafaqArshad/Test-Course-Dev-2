@@ -1,9 +1,10 @@
 title: Learning Path Live
 description: Lets learn how to build a web application with Flask.
-scenarios: []
+scenarios: 
+  - Kubernetes Live Scenario
 isPremium: true
 isAvailable: true
-scenarioCount: 0
+scenarioCount: 1
 isNew: true
 categories: 
   - Kubernetes
