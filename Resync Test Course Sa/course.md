@@ -4,5 +4,6 @@ isAvailable: true
 isPremium: false
 categories: 
     - docker
-learningPaths: []
+learningPaths: 
+    - Resync Learning Path 1
 complexity: advance
