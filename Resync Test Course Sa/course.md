@@ -3,6 +3,6 @@ description: New Multiple Course For Test
 isAvailable: true
 isPremium: true
 categories: 
-    - docker
+    - kubernetes
 learningPaths: []
 complexity: advance
