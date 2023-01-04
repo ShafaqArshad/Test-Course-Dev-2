@@ -1,9 +1,9 @@
 courseName: Resync Test Course Sa
 description: New Multiple Course For Test
 isAvailable: true
-isPremium: true
+isPremium: false
 categories: 
-    - kubernetes
+    - docker
 learningPaths: 
     - Resync Learning Path 1
 complexity: advance
