@@ -4,7 +4,7 @@ scenarios:
   - Resync Scenario 1
   - Resync Scenario 2
   - Resync Scenario 3
-isPremium: true
+isPremium: false
 isAvailable: true
 scenarioCount: 3
 isNew: true
