@@ -1,4 +1,4 @@
-title: Resync 1 Scenario 8
+title: Resync Scenario 8
 description: Understanding python and go scenaarios for testing the description of lp python
 time: 25 minutes
 steps:
