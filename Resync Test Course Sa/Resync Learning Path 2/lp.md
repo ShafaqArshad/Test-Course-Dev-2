@@ -4,9 +4,10 @@ scenarios:
   - Resync 2 Scenario 1
   - Resync 2 Scenario 2
   - Resync 2 Scenario 3
+  - Resync 2 Scenario 4
 isPremium: false
 isAvailable: true
-scenarioCount: 3
+scenarioCount: 4
 isNew: true
 categories: 
   - docker
