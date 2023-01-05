@@ -8,5 +8,4 @@ learningPaths:
     - Resync Learning Path 1
     - Resync Learning Path 2
     - Resync Learning Path 3
-    - sfff hghgh 4
 complexity: advance
