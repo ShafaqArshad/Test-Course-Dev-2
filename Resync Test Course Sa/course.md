@@ -6,4 +6,5 @@ categories:
     - docker
 learningPaths: 
     - Resync Learning Path 1
+    - Resync Learning Path 2
 complexity: advance
