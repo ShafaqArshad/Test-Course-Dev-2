@@ -8,9 +8,10 @@ scenarios:
   - Resync Scenario 5
   - Resync Scenario 6
   - Resync Scenario 7
+  - Resync Scenario 8
 isPremium: false
 isAvailable: true
-scenarioCount: 7
+scenarioCount: 8
 isNew: true
 categories: 
   - docker
