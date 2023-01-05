@@ -7,4 +7,5 @@ categories:
 learningPaths: 
     - Resync Learning Path 1
     - Resync Learning Path 2
+    - Resync Learning Path 3
 complexity: advance
