@@ -6,7 +6,7 @@ scenarios:
   - Resync 2 Scenario 3
 isPremium: false
 isAvailable: true
-scenarioCount: 0
+scenarioCount: 3
 isNew: true
 categories: 
   - docker
