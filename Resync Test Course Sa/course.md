@@ -11,4 +11,4 @@ learningPaths:
 complexity: advance
 price: 
     currency: USD
-    amount: 10
+    value: 10
