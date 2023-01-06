@@ -1,7 +1,7 @@
 courseName: Resync Test Course Sa
 description: New Multiple Course For Test
 isAvailable: true
-isPremium: false
+isPremium: true
 categories: 
     - docker
 learningPaths: 
@@ -9,3 +9,6 @@ learningPaths:
     - Resync Learning Path 2
     - Resync Learning Path 3
 complexity: advance
+price: 
+    currency: USD
+    amount: 10
